@@ -1,0 +1,227 @@
+Country,Density
+Macao,22249.6667
+Monaco,19891.5
+Singapore,8371.1915
+Hong Kong,6887.952
+Gibraltar,5617.3333
+Bahrain,2332.0039
+Maldives,1803.2833
+Malta,1405.1677
+Sint Maarten,1293.1176
+Bermuda,1147.0185
+Bangladesh,1137.6682
+Palestine,859.4117
+Vatican City,799.0
+Mayotte,765.3984
+Saint Martin,749.6226
+Barbados,669.8209
+Taiwan,660.0336
+Lebanon,639.5761
+Mauritius,624.8662
+Aruba,597.8278
+San Marino,558.7705
+Nauru,519.1905
+Rwanda,516.3818
+Comoros,487.3357
+Burundi,453.5762
+Israel,429.6048
+India,427.8611
+Haiti,420.9111
+Netherlands,411.2652
+Belgium,382.2156
+Japan,332.2966
+Marshall Islands,331.8066
+Martinique,331.6374
+Grenada,329.8692
+Sri Lanka,328.8499
+Philippines,328.6345
+El Salvador,311.3155
+Saint Lucia,300.5081
+Vietnam,298.7619
+Trinidad and Tobago,274.1881
+Jamaica,271.5944
+Pakistan,260.2176
+Qatar,257.1996
+Cayman Islands,254.8371
+Luxembourg,248.4033
+Kuwait,245.8371
+Guadeloupe,245.5737
+Liechtenstein,239.9187
+Gambia,239.3565
+Sao Tome and Principe,236.1815
+Germany,234.893
+Nigeria,234.6335
+Dominican Republic,227.1655
+Antigua and Barbuda,225.1335
+Seychelles,219.969
+Switzerland,212.5191
+Saint Kitts and Nevis,206.4023
+Nepal,205.3633
+British Virgin Islands,202.6225
+Uganda,200.5086
+Italy,199.9853
+Guatemala,170.6696
+Malawi,170.3254
+Micronesia,167.3632
+Anguilla,167.3626
+Andorra,165.5192
+Togo,152.872
+Kiribati,152.1813
+Isle of Man,149.8811
+China,149.2199
+Indonesia,146.5605
+Tonga,144.2423
+Thailand,136.5727
+Ghana,135.8112
+Denmark,135.4005
+Cyprus,132.2438
+Poland,120.6982
+Azerbaijan,118.94
+France,118.8782
+Moldova,118.5715
+Sierra Leone,115.7853
+Jordan,115.297
+Benin,113.5189
+Slovakia,111.3484
+Portugal,110.1159
+Ethiopia,109.4021
+Turkey,109.1962
+Austria,108.103
+Egypt,105.8972
+Syria,104.5729
+Hungary,103.262
+Cuba,102.8872
+Slovenia,102.5025
+Costa Rica,101.4159
+Malaysia,100.3046
+Armenia,99.9215
+Albania,99.7069
+Serbia,97.928
+Kenya,96.8615
+Dominica,96.3302
+Iraq,96.1974
+Cambodia,94.836
+Spain,92.3318
+Timor-Leste,92.0686
+Honduras,90.862
+Senegal,89.7392
+Ivory Coast,86.0325
+Morocco,84.588
+Myanmar,81.6272
+Burkina Faso,80.9726
+North Macedonia,80.9436
+Romania,79.8324
+Greece,78.1623
+Wallis and Futuna,77.338
+Brunei,77.2647
+Uzbekistan,76.8486
+Cook Islands,74.4534
+Tunisia,73.6303
+Croatia,71.7264
+Lesotho,71.6751
+Ukraine,71.5694
+Ireland,71.4385
+Samoa,71.1608
+Tajikistan,69.584
+Eswatini,68.2341
+French Polynesia,68.1939
+Tanzania,66.9764
+Mexico,66.9744
+Ecuador,65.4288
+Bosnia and Herzegovina,63.4521
+Afghanistan,62.4847
+Bulgaria,61.7303
+Yemen,59.009
+Panama,58.965
+Cameroon,58.7065
+Guinea-Bissau,57.1174
+Georgia,56.9403
+Guinea,56.3974
+Equatorial Guinea,53.355
+Iran,52.1921
+Nicaragua,51.9977
+Fiji,49.7738
+South Africa,49.7578
+Madagascar,49.7036
+Montserrat,48.6765
+Liberia,47.6355
+Montenegro,45.4641
+Belarus,45.4374
+Colombia,45.1175
+Djibouti,43.7973
+Mozambique,41.2798
+Lithuania,40.7612
+Palau,39.7233
+Zimbabwe,39.2352
+Faeroe Islands,35.3431
+Kyrgyzstan,33.6496
+Venezuela,31.9353
+Laos,31.5922
+Eritrea,31.1415
+Estonia,29.2283
+Bahamas,28.7252
+Latvia,28.6379
+Angola,28.096
+Somalia,26.412
+Vanuatu,26.4035
+Peru,26.209
+Zambia,25.8702
+Chile,25.4598
+Brazil,25.2888
+Solomon Islands,24.9571
+Sudan,24.3851
+Sweden,22.6939
+Niger,20.5869
+Bhutan,20.5225
+Papua New Guinea,20.0764
+Uruguay,19.3114
+Algeria,19.0408
+South Sudan,18.7472
+New Zealand,18.1102
+Paraguay,17.9614
+Belize,17.9478
+Mali,17.3149
+Oman,17.2019
+Norway,17.0208
+Saudi Arabia,16.6745
+Argentina,16.5481
+Finland,16.4142
+New Caledonia,15.6616
+Chad,13.562
+Bolivia,10.9165
+Gabon,8.7105
+Russia,8.5275
+Kazakhstan,7.048
+Niue,6.2385
+Mauritania,4.756
+Botswana,4.1944
+Libya,4.0015
+Canada,3.8447
+French Guiana,3.761
+Guyana,3.6938
+Suriname,3.6432
+Australia,3.3891
+Iceland,3.3533
+Namibia,3.1902
+Western Sahara,2.354
+Mongolia,2.1597
+Falkland Islands,0.2907
+Greenland,0.0263
+USA,36.0
+UK,281.0
+S. Korea,527.0
+Czechia,139.0
+UAE,118.0
+Réunion,358.0
+DRC,40.0
+Channel Islands,915.0
+Cabo Verde,138.0
+Curaçao,370.0
+Congo,16.0
+CAR,8.0
+Caribbean Netherlands,80.0
+St. Vincent Grenadines,284.0
+Turks and Caicos,41.0
+St. Barth,470.0
+Saint Pierre Miquelon,25.0
+Saint Helena,16.0
