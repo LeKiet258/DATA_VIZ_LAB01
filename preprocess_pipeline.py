@@ -1,10 +1,8 @@
 import pandas as pd
-import numpy as np
-
-cwd = '/content/drive/MyDrive/Colab Notebooks/Lab01'
+import numpy as os
 
 def preprocess_pipeline(d):
-      df = pd.read_csv(f'{cwd}/Worldometer-data/table_{d}_raw.csv')
+      df = pd.read_csv(f'./Worldometer-data/table_{d}_raw.csv')
       df.drop(columns='Unnamed: 0', inplace=True)
       df.rename(columns={'Country, Other': 'Country', 'Serious, Critical': 'Serious'}, inplace=True)
 
@@ -21,7 +19,7 @@ def preprocess_pipeline(d):
             df[['New Cases', 'New Deaths', 'New Recovered', 'Serious', 'Total Deaths']].fillna(0)
 
       # Thêm cột `continent`
-      continent_df = pd.read_csv(f'{cwd}/continents.csv').rename(columns={'Unnamed: 0': 'Country'})
+      continent_df = pd.read_csv(f'./continents.csv').rename(columns={'Unnamed: 0': 'Country'})
       df = df.merge(continent_df, on='Country', how='inner')
 
       # điền khuyết cho 2 cột 'Total Recovered', 'Total Tests'
@@ -35,7 +33,6 @@ def preprocess_pipeline(d):
       df['Active Cases'] = df['Active Cases'].fillna(fval)
 
       return df
-
 
 
 
