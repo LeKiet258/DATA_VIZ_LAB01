@@ -36,7 +36,7 @@ def preprocess_pipeline(d):
 
 
 def add_density(input_df:pd.DataFrame):
-    temp_df = pd.read_csv('population_density.csv')
+    temp_df = pd.read_csv(f'./utils/population_density.csv')
     pre_df = input_df.join(other=temp_df.set_index('Country'), on='Country')
 
     print("Add Column Density Successfully")
