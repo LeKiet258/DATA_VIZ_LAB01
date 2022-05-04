@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as os
 
 def preprocess_pipeline(d):
-      df = pd.read_csv(f'./Worldometer-data/table_{d}_raw.csv')
+      df = pd.read_csv(f'../Worldometer-data/table_{d}_raw.csv')
       df.drop(columns='Unnamed: 0', inplace=True)
       df.rename(columns={'Country, Other': 'Country', 'Serious, Critical': 'Serious'}, inplace=True)
 
